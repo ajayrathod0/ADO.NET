@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ADONET_intro
+namespace ADONETCoreApp
 {
     public class Trainer
     {
@@ -12,9 +12,5 @@ namespace ADONET_intro
         public string Name { get; set; }
         public string City { get; set; }
         public int Experience { get; set; }
-
     }
-    
-
-
 }
